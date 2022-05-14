@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Fri May 06 14:39:20 2022
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : Tank_Trouble
+Top-level Entity Name : Tank_Trouble_TL
+Family : MAX 10
+Total logic elements : 15,582
+    Total combinational functions : 14,517
+    Dedicated logic registers : 3,094
+Total registers : 3094
+Total pins : 141
+Total virtual pins : 0
+Total memory bits : 1,240,064
+Embedded Multiplier 9-bit elements : 216
+Total PLLs : 1
+UFM blocks : 0
+ADC blocks : 0
